@@ -1,0 +1,16 @@
+pandas
+numpy
+json
+nltk
+re
+csv
+matplotlib
+seaborn 
+tqdm
+scikit-learn
+transformers
+torch
+scipy
+statistics
+argparse
+collections
