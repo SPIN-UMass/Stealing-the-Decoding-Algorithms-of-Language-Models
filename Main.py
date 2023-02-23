@@ -26,8 +26,8 @@ from scipy.stats import chisquare
 import scipy.stats as st
 from statistics import mean
 import argparse
-from Sampling_Methods import gpt2_stage3_temp, gpt2_stage3_temp_topk, gpt2_stage3_temp_NS, gpt2_stage3_temp_topk_NS, gpt3_stage3_temp, stage4, gpt2_stage5, gpt3_stage5
-from Prompt_Based import gpt2_prompt_eng_temp, gpt2_prompt_eng_topp, gpt3_prompt_eng_topp
+from sampling_methods import gpt2_stage3_temp, gpt2_stage3_temp_topk, gpt2_stage3_temp_NS, gpt2_stage3_temp_topk_NS, gpt3_stage3_temp, stage4, gpt2_stage5, gpt3_stage5
+from prompt_based import gpt2_prompt_eng_temp, gpt2_prompt_eng_topp, gpt3_prompt_eng_topp
 from utils import count_tokens, new_dist_metric, create_hist 
 from collections import Counter
 
