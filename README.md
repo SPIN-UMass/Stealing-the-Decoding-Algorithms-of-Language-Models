@@ -1,4 +1,4 @@
-# Stealing-the-Decoding-Algorithms-of-Language-Models
+# Stealing the Decoding Algorithms of Language Models
 
 ## Installation
 
